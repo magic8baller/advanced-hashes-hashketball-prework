@@ -119,7 +119,7 @@ def game_hash
 end
 
 # game_hash = {}
-  # location (:home or :away) = {}
+  # location (' :home' vs ' :away') = {}
     # :team_data => {}
       # :team_name => value
       # :colors => []
