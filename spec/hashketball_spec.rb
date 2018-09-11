@@ -1,5 +1,6 @@
 require 'spec_helper'
 
+
 describe 'hashketball' do
 
   describe '#game_hash' do
